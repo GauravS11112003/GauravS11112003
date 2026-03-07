@@ -14,9 +14,8 @@
 
 ## `> whoami`
 
-Junior at the **University of Alabama**, Honors College, carrying a **4.0 GPA**. I've interned on Wall Street, caught real financial fraud, won a hackathon by reading people's brainwaves, and published research at one of the top HCI conferences in the world. I also coordinate meal deliveries for children through **Secret Meals for Hungry Children** and serve as a Resident Advisor on campus.
+Junior at the **University of Alabama**, Honors College, carrying a **4.0 GPA**. I've interned at EBSCO, Jane Street, and Alabama Credit Union, caught real financial fraud, won a hackathon by reading people's brainwaves, and published research at one of the top HCI conferences in the world. I also coordinate meal deliveries for children through **Secret Meals for Hungry Children** and served as a Resident Advisor on campus.
 
-When I'm not shipping code, I'm probably reading about AI venture capital or deep into the Mahabharata.
 
 ---
 
