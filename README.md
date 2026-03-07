@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gaurav%20Shrivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Systems%20%E2%80%A2%20AI%20%E2%80%A2%20Full%20Stack&descSize=18&descAlignY=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gaurav%20Shrivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Systems&descSize=18&descAlignY=52" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=Building+systems+that+trade%2C+detect+fraud%2C+and+decode+brainwaves;From+C%2B%2B+trading+engines+to+EEG-powered+music+apps;4.0+GPA+%7C+Jane+Street+Fellow+%7C+CHI+2025+Published)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=Jane+Street+Fellow+%7C+CHI+2025+Author+%7C+HackUGA+Winner;Wall+Street+to+open+source+to+brainwave-powered+apps;4.0+GPA+%E2%80%A2+Honors+College+%E2%80%A2+University+of+Alabama)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/gaurav1111/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -14,22 +14,9 @@
 
 ## `> whoami`
 
-I'm a CS undergrad at the **University of Alabama** who builds things at the intersection of **low-latency systems** and **intelligent software**. I've written C++ trading infrastructure at **Jane Street**, caught financial fraud with ML at a credit union, shipped Golang microservices for an open-source library platform, and published HCI research accepted at **CHI 2025**.
+Junior at the **University of Alabama**, Honors College, carrying a **4.0 GPA**. I've interned on Wall Street, caught real financial fraud, won a hackathon by reading people's brainwaves, and published research at one of the top HCI conferences in the world. I also coordinate meal deliveries for children through **Secret Meals for Hungry Children** and serve as a Resident Advisor on campus.
 
-I care about code that's fast, correct, and solves real problems.
-
-<details>
-<summary><b>More about me</b></summary>
-<br>
-
-- Maintaining a **4.0 GPA** while shipping production code across multiple internships
-- Built a multi-threaded C++ trading system processing **500+ real-time market feeds** with fault tolerance
-- Automated fraud detection flagging **15K+ suspicious transactions** using statistical anomaly detection
-- Co-authored a peer-reviewed paper on **EEG/EMG-driven interactive systems and robotics**
-- Area Coordinator for **Secret Meals for Hungry Children** and Resident Advisor at UA
-- When I'm not coding: diving into AI venture capital trends or reading the Mahabharata
-
-</details>
+When I'm not shipping code, I'm probably reading about AI venture capital or deep into the Mahabharata.
 
 ---
 
