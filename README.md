@@ -1,27 +1,20 @@
 <div align="center">
 
-```
-  ██████╗  ███████╗
- ██╔════╝  ██╔════╝
- ██║  ███╗ ███████╗
- ██║   ██║ ╚════██║
- ╚██████╔╝ ███████║
-  ╚═════╝  ╚══════╝  gaurav shrivastava
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Gaurav+Shrivastava)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=A0A0A0&center=true&vCenter=true&width=600&lines=jane+street+fellow+%2F%2F+chi+2025+author+%2F%2F+hackuga+winner;building+at+the+intersection+of+systems+%26+intelligence;university+of+alabama+%E2%80%94+4.0+%E2%80%94+honors+college)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=jane+street+fellow+%2F%2F+chi+2025+author+%2F%2F+hackuga+winner;building+at+the+intersection+of+systems+%26+intelligence;university+of+alabama+%E2%80%94+4.0+%E2%80%94+honors+college)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://linkedin.com/in/gaurav1111/">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="24"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26"/>
 </a>
 &nbsp;
 <a href="mailto:gshrivastava@crimson.ua.edu">
-  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="24"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="26"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=GauravS11112003&style=for-the-badge&color=363636&label=VIEWS" height="24"/>
+<img src="https://komarev.com/ghpvc/?username=GauravS11112003&style=for-the-badge&color=1f2937&label=VIEWS" height="26"/>
 
 </div>
 
@@ -31,7 +24,7 @@
 gaurav:
   role:       Junior @ University of Alabama · Honors College · 4.0 GPA
   experience: [ EBSCO, Jane Street, Alabama Credit Union ]
-  research:   CHI 2025 (top-tier HCI conference)
+  research:   CHI 2025 — top-tier HCI conference
   awards:     [ HackUGA Winner, Jane Street Fellowship ]
   community:  [ Secret Meals for Hungry Children, Resident Advisor ]
   currently:  Building things that matter at the edge of AI × Systems
@@ -39,46 +32,42 @@ gaurav:
 
 ---
 
-## selected work
+## ◆ selected work
 
 <table>
 <tr>
 <td width="50%">
 
-**`/route-optimizer`**
+### [`/route-optimizer`](https://github.com/GauravS11112003)
+`Go` · `React` · `WebSocket` · `Leaflet`
 
-Multi-strategy routing engine pitting 3 solver algorithms against each other in real-time. **28% reduction** in total delivery distance across 50+ scenarios with live WebSocket telemetry and Leaflet map overlays.
-
-`Go` `React` `WebSocket` `Leaflet`
+Multi-strategy routing engine pitting 3 solver algorithms in real-time competition. Achieved **28% reduction** in total delivery distance across 50+ scenarios with live telemetry and map overlays.
 
 </td>
 <td width="50%">
 
-**`/mind-beats`** &nbsp;`🏆 HackUGA`
+### [`/mind-beats`](https://github.com/GauravS11112003) &nbsp;`🏆 HackUGA`
+`Python` · `SVM` · `Streamlit` · `Muse EEG`
 
-EEG-powered music recommender that reads your emotional state from brainwaves. **~83% classification accuracy** via SVM + Random Forest fusion on 2K+ samples from a Muse headset.
-
-`Python` `SVM` `Streamlit` `EEG`
+EEG-powered music recommender that maps brainwaves to emotional state. **~83% classification accuracy** via SVM + Random Forest fusion on 2K+ samples.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**`/folio-platform`**
+### [`/folio-platform`](https://github.com/GauravS11112003)
+`Go` · `PostgreSQL` · `GraphQL` · `React`
 
-Golang REST API with goroutine-based concurrency supporting **25K+ daily record operations**. GraphQL layer + React dashboards with sub-second response times.
-
-`Go` `PostgreSQL` `GraphQL` `React`
+Golang REST API with goroutine-based concurrency handling **25K+ daily record operations**. GraphQL layer with sub-second response times.
 
 </td>
 <td width="50%">
 
-**`/fraud-detection`**
+### [`/fraud-detection`](https://github.com/GauravS11112003)
+`Python` · `AWS Lambda` · `Docker` · `Flask`
 
-Automated flagging of **15K+ fraudulent transactions** via statistical anomaly detection. Serverless Lambda + CloudWatch pipelines with a React dashboard replacing legacy spreadsheet workflows.
-
-`Python` `AWS Lambda` `Docker` `Flask`
+Flagged **15K+ fraudulent transactions** via statistical anomaly detection. Serverless Lambda + CloudWatch pipelines replacing legacy spreadsheet workflows.
 
 </td>
 </tr>
@@ -86,7 +75,7 @@ Automated flagging of **15K+ fraudulent transactions** via statistical anomaly d
 
 ---
 
-## stack
+## ◆ stack
 
 <div align="center">
 
@@ -98,7 +87,7 @@ Automated flagging of **15K+ fraudulent transactions** via statistical anomaly d
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**frontend & backend**
+**frontend · backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -107,7 +96,7 @@ Automated flagging of **15K+ fraudulent transactions** via statistical anomaly d
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**data & infra**
+**data · infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -122,24 +111,22 @@ Automated flagging of **15K+ fraudulent transactions** via statistical anomaly d
 
 ---
 
-## metrics
+## ◆ metrics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GauravS11112003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&rank_icon=github&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GauravS11112003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=GauravS11112003&theme=github-dark-blue&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=GauravS11112003&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=888888&dates=888888" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravS11112003&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true" width="93%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravS11112003&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area_color=58A6FF&area=true&hide_border=true" width="93%" />
 </div>
 
 ---
 
 <div align="center">
-<sub>
-  <code>fraud caught · brainwaves decoded · routes optimized · research published</code>
-</sub>
+  <sub><code>fraud caught · brainwaves decoded · routes optimized · research published</code></sub>
 </div>
